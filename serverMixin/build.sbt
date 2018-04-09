@@ -27,11 +27,10 @@ lazy val definition = new {
     val version_test          = "3.0.5"
     val stm_version           = "0.7"
     val akka_test_version     = "2.5.11"
-    val phantomV              = "2.14.5"
+    val phantomV              = "2.9.2"
     val akka_test             = "com.typesafe.akka" %% "akka-testkit"           % akka_test_version % Test
-    val playFramwork          = "com.typesafe.play" %% "play" % "2.6.13"
-
-
+    val playFramwork          = "com.typesafe.play" %% "play"                   % "2.6.13"
+    val playIteratee          = "com.typesafe.play" %% "play-iteratees"         % "2.6.1"
     val stm                   = "org.scala-stm"     %% "scala-stm"              % stm_version
     val scala_test            = "org.scalactic"     %% "scalactic"              % version_test
     val test                  = "org.scalatest"     %% "scalatest"              % version_test % "test"
@@ -45,7 +44,9 @@ lazy val definition = new {
   }
 
 
-val phantom           = Seq(definition.phantom_dsl, definition.phantom_connect, definition.playFramwork)
+val phantom           = Seq(definition.phantom_dsl, definition.phantom_connect,
+                            definition.playFramwork, definition.playIteratee)
+
 val sequenceAkka      = Seq(definition.akka_core, definition.akka_remote,
                              definition.akka_http, definition.akka_session,
                               definition.stm, definition.akka_test)

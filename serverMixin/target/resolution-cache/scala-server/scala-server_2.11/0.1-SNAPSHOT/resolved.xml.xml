@@ -4,7 +4,7 @@
 		module="scala-server_2.11"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20180408214439"
+		publication="20180409113859"
 	>
 		<description>
 		scala-server
@@ -41,9 +41,10 @@
 		<dependency org="com.softwaremill" name="akka-http-session_2.11" rev="0.1.4" conf="compile->default(compile)"/>
 		<dependency org="org.scala-stm" name="scala-stm_2.11" rev="0.7" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.akka" name="akka-testkit_2.11" rev="2.5.11" conf="test->default(compile)"/>
-		<dependency org="com.outworkers" name="phantom-dsl_2.11" rev="2.14.5" conf="compile->default(compile)"/>
-		<dependency org="com.outworkers" name="phantom-connectors_2.11" rev="2.14.5" conf="compile->default(compile)"/>
+		<dependency org="com.outworkers" name="phantom-dsl_2.11" rev="2.9.2" conf="compile->default(compile)"/>
+		<dependency org="com.outworkers" name="phantom-connectors_2.11" rev="2.9.2" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.play" name="play_2.11" rev="2.6.13" conf="compile->default(compile)"/>
+		<dependency org="com.typesafe.play" name="play-iteratees_2.11" rev="2.6.1" conf="compile->default(compile)"/>
 		<dependency org="org.scalatest" name="scalatest_2.11" rev="3.0.5" conf="test->default(compile)"/>
 		<dependency org="org.scalactic" name="scalactic_2.11" rev="3.0.5" conf="compile->default(compile)"/>
 	</dependencies>
