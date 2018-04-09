@@ -1,0 +1,113 @@
+[0m[[0mdebug[0m] [0m[naha] The Greeting$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	preStart.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) Greeting$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) Greeting$.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/tyron/Desktop/projet/serverMixin/src/test/scala/Greeter01Test.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The Ticket$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	preStart.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) Ticket$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) Ticket$.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/tyron/Desktop/projet/serverMixin/src/test/scala/test.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The Kiosk01 source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	preStart.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) Kiosk01: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) Kiosk01.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/tyron/Desktop/projet/serverMixin/src/test/scala/test.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The SilentMessage source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	preStart.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) SilentMessage: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) SilentMessage.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/tyron/Desktop/projet/serverMixin/src/test/scala/test.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The Greeting source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	preStart.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) Greeting: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) Greeting.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/tyron/Desktop/projet/serverMixin/src/test/scala/Greeter01Test.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The Ticket source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	preStart.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) Ticket: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) Ticket.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/tyron/Desktop/projet/serverMixin/src/test/scala/test.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The GetState$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	preStart.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) GetState$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) GetState$.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/tyron/Desktop/projet/serverMixin/src/test/scala/test.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The Game source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	preStart.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) Game: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) Game.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/tyron/Desktop/projet/serverMixin/src/test/scala/test.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The Greeter source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	preStart.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) Greeter: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) Greeter.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/tyron/Desktop/projet/serverMixin/src/test/scala/Greeter01Test.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The EchoActor source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	preStart.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) EchoActor: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) EchoActor.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/tyron/Desktop/projet/serverMixin/src/test/scala/Greeter01Test.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The Game$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	preStart.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) Game$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) Game$.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/tyron/Desktop/projet/serverMixin/src/test/scala/test.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The GetState source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	preStart.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) GetState: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) GetState.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/tyron/Desktop/projet/serverMixin/src/test/scala/test.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The SilentActor source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	preStart.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) SilentActor: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) SilentActor.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/tyron/Desktop/projet/serverMixin/src/test/scala/test.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The SilentMessage$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	preStart.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) SilentMessage$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) SilentMessage$.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/tyron/Desktop/projet/serverMixin/src/test/scala/test.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set(NamesChange(Greeting$,ModifiedNames(regularNames = preStart, implicitNames = )), NamesChange(Ticket$,ModifiedNames(regularNames = preStart, implicitNames = )), NamesChange(Kiosk01,ModifiedNames(regularNames = preStart, implicitNames = )), NamesChange(SilentMessage,ModifiedNames(regularNames = preStart, implicitNames = )), NamesChange(Greeting,ModifiedNames(regularNames = preStart, implicitNames = )), NamesChange(Ticket,ModifiedNames(regularNames = preStart, implicitNames = )), NamesChange(GetState$,ModifiedNames(regularNames = preStart, implicitNames = )), NamesChange(Game,ModifiedNames(regularNames = preStart, implicitNames = )), NamesChange(Greeter,ModifiedNames(regularNames = preStart, implicitNames = )), NamesChange(EchoActor,ModifiedNames(regularNames = preStart, implicitNames = )), NamesChange(Game$,ModifiedNames(regularNames = preStart, implicitNames = )), NamesChange(GetState,ModifiedNames(regularNames = preStart, implicitNames = )), NamesChange(SilentActor,ModifiedNames(regularNames = preStart, implicitNames = )), NamesChange(SilentMessage$,ModifiedNames(regularNames = preStart, implicitNames = )))[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set()[0m

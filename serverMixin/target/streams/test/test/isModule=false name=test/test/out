@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mtest:[0m[0m
+[0m[[0minfo[0m] [0m[32mA Silent Actor[0m[0m
+[0m[[0minfo[0m] [0m[32m- must change state when it receive a message[0m[0m
+[0m[[0minfo[0m] [0m[32m- must change state when it receive a message , multi-threaded [0m[0m
+[0m[[0minfo[0m] [0m[32mA Sending Actor[0m[0m
+[0m[[0minfo[0m] [0m[32m- must send a message to an actor when it has finished [0m[0m
